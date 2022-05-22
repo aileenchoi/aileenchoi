@@ -8,7 +8,7 @@
 
 - 💼 I'm currently **accepting new clients!**
 
-- 👨‍💻 All of my projects are available at [aileenchoi.netlify.com](aileenchoi.netlify.com)
+- 👨‍💻 All of my projects are available at [aileenchoi.netlify.com](aileenchoi.netlify.app)
 
 - 📫 How to reach me **ac.aileenchoi@gmail.com**
 
