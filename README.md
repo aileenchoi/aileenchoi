@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **API projects**
 
-- 🌱 I’m currently learning **Javascript and node.js**
+- 🌱 I’m currently learning **node.js and express**
 
-- 💼 I'm currently **accepting new clients!**
+- 💼 I'm currently **accepting new freelance clients!**
 
 - 👨‍💻 All of my projects are available at [https://aileenchoi.netlify.app/](https://aileenchoi.netlify.app/)
 
