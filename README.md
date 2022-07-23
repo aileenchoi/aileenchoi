@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aileen</h1>
 <h3 align="center">A full stack web developer based from the DMV (DC, MD, VA).</h3>
 
-- 🔭 I’m currently working on **API projects**
+- 🔭 I’m currently working on **MERN web applications**
 
 - 🌱 I’m currently learning **node.js and express**
 
