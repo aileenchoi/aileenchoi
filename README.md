@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aileen</h1>
 <h3 align="center">A full stack software engineer @100Devs from the DMV (DC, MD, VA).</h3>
 
-- 🔭 I’m currently working on **a full-stack travel app**
+- 🔭 I’m currently working on **a full-stack data tracker app**
 
 - 💼 I'm currently **accepting new freelance clients!**
 
