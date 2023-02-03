@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aileen</h1>
 <h3 align="center">A full stack software engineer @Steel Torch Marketing.</h3>
 
-- 🔭 I’m currently working on **a full-stack data tracker app**
+- 🔭 I’m currently working on **SunnySide App-- an app for mental health!**
 
 - 🌱 I’m currently **accepting new freelance clients.**
 
